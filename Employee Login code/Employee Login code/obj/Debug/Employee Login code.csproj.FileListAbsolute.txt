@@ -1,0 +1,8 @@
+C:\Users\Rahul\Desktop\Employee Login code\Employee Login code\bin\Debug\Employee Login code.exe
+C:\Users\Rahul\Desktop\Employee Login code\Employee Login code\bin\Debug\Employee Login code.pdb
+C:\Users\Rahul\Desktop\Employee Login code\Employee Login code\obj\Debug\Employee Login code.csprojResolveAssemblyReference.cache
+C:\Users\Rahul\Desktop\Employee Login code\Employee Login code\obj\Debug\Employee_Login_code.Form1.resources
+C:\Users\Rahul\Desktop\Employee Login code\Employee Login code\obj\Debug\Employee_Login_code.Properties.Resources.resources
+C:\Users\Rahul\Desktop\Employee Login code\Employee Login code\obj\Debug\Employee Login code.csproj.GenerateResource.Cache
+C:\Users\Rahul\Desktop\Employee Login code\Employee Login code\obj\Debug\Employee Login code.exe
+C:\Users\Rahul\Desktop\Employee Login code\Employee Login code\obj\Debug\Employee Login code.pdb
